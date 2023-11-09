@@ -1,10 +1,10 @@
-# 💻 Projeto: Lista de Tarefa usando ASP Core MVC.
+# 💻 Projeto: Lista de Tarefa usando .NET ASP Core MVC.
 Neste projeto podemos planear nossas tarefas dia a dia.
 - Crei e conectei a base de dados.
 - Criei o programa conforme a minha necessidade para auxiliar nos meus estudos.
 
 🚀  Tecnologia utilizada:
-- ASP Core MVC.
+- .NET ASP Core MVC.
 
 ❤ Criação: Ana Paula Valdetário
 
